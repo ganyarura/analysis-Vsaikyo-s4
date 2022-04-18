@@ -1,6 +1,6 @@
 # [Vtuber最協決定戦](https://vtuber-saikyo.jp/)Season4の配信者の同接数を取得した
 ## Vtuber最協決定戦 Season4
-![key visual](https://github.com/ganyarura/analysis-of-Vsaikyo-s4/blob/readme/images/Vsaikyo-s4.png)
+![key visual](https://github.com/ganyarura/analysis-Vsaikyo-s4/blob/readme/image/Vsai-key-visual.png)
 
 ## やったこと
 - [「比類なき才能の証明」](https://twitter.com/Vamp_Kuzu/status/1515604956111605762?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet)のメンバーの[葛葉](https://www.nijisanji.jp/members/kuzuha)、[イブラヒム](https://www.nijisanji.jp/members/ibrahim)、[卯月コウ](https://www.nijisanji.jp/members/kou-uzuki)の同時接続視聴者数をYouTube APIを使って取得した
